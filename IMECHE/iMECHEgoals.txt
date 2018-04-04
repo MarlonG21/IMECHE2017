@@ -1,0 +1,19 @@
+Go through the brief again
+the design would have one driving wheel driven by a motor and button at the end off the robot that wil take the current count of the encoders reset the counters and changing the direction of the robot making it run unltil the distance tranvelled is equal to the the current distance.
+
+
+use bumpers to get the elapsed time in which the motors are working.Set the motors to drive in the opposite direction with the same elasped time
+
+
+align the robot;
+Set_speed=1;
+get_State of bumper switches
+get alasped time for when the robot starts and when the bump switches are on.
+Current_Direction.
+
+
+components:
+designed base;
+2 servos;
+one driving motor;
+number of wheels?
